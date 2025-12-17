@@ -1,0 +1,85 @@
+# DIRECT
+# This file is put in the public domain.
+# claudiux, 2025
+#
+msgid ""
+msgstr ""
+
+#. applet.js:44 applet.js:678
+msgid "APPLICATIONS"
+msgstr ""
+
+#. applet.js:579 applet.js:620 applet.js:653 applet.js:686 applet.js:719
+msgid "Configure"
+msgstr ""
+
+#. settings-schema.json->favoriteAppsSection->title
+msgid "Favorite apps"
+msgstr ""
+
+#. settings-schema.json->openHoveringOver->description
+msgid "Open the menu by hovering over the icon"
+msgstr ""
+
+#. settings-schema.json->dontDisplayTooltip->description
+msgid "Do not display the tooltip"
+msgstr ""
+
+#. settings-schema.json->showUserSettingsAccessIcon->description
+#. settings-schema.json->showSystemSettingsAccessIcon->description
+#. settings-schema.json->showFavoritesSettingsAccessIcon->description
+#. settings-schema.json->showRecentSettingsAccessIcon->description
+msgid "Show the settings access icon"
+msgstr ""
+
+#. settings-schema.json->favoriteSortingMethod->options
+msgid "Custom Sort"
+msgstr ""
+
+#. settings-schema.json->favoriteLabel->description
+msgid ""
+"Below are the favorite documents displayed in the menu when checked.\n"
+"The Name can be changed here, but is unchanged in menu.\n"
+"The URI must not be changed.\n"
+"Favorite documents can only be managed by nemo."
+msgstr ""
+
+#. settings-schema.json->favoriteCustomList->columns->title
+#. settings-schema.json->favApps->columns->title
+msgid "Menu"
+msgstr ""
+
+#. settings-schema.json->favoriteCustomList->columns->title
+msgid " Name"
+msgstr ""
+
+#. settings-schema.json->favoriteCustomList->columns->title
+msgid " URI"
+msgstr ""
+
+#. settings-schema.json->favoritePopulateButton->description
+msgid "Add all your Favorite Documents"
+msgstr ""
+
+#. settings-schema.json->showFavoriteApps->description
+msgid "Show favorite apps"
+msgstr ""
+
+#. settings-schema.json->favAppsLabel->description
+msgid ""
+"Below are the favorite applications displayed in the menu when checked.\n"
+"The Name can be changed.\n"
+"The Launcher must not be changed."
+msgstr ""
+
+#. settings-schema.json->favApps->description
+msgid "Favorite apps shown"
+msgstr ""
+
+#. settings-schema.json->favApps->columns->title
+msgid " Launcher"
+msgstr ""
+
+#. settings-schema.json->favAppsPopulateButton->description
+msgid "Add all your Favorite Apps"
+msgstr ""
